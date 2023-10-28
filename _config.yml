@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# To Run locally use command:
+# bundle exec jekyll serve --livereload
+
 title: Сергей Крайнюков. Андроид-разработчик.
 email: sk_developer@mail.ru
 description: >- # this means to ignore newlines until "baseurl:"
